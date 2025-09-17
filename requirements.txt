@@ -1,0 +1,11 @@
+# Dependencias base para tesis PINN
+h5py
+numpy
+matplotlib
+pandas
+scikit-learn
+torch
+jupyter
+ipykernel
+seaborn
+
