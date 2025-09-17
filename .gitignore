@@ -1,0 +1,13 @@
+# Ignorar carpeta XMCD grande
+data_raw/xmcd/XMCD/*
+
+# Ignorar entornos virtuales
+.venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
