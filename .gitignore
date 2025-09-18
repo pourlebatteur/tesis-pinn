@@ -1,13 +1,6 @@
-
 data_raw/xmcd/XMCD/*
-
-
 .venv/
-
-
 __pycache__/
 *.pyc
 *.pyo
-
-
 .ipynb_checkpoints/
